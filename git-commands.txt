@@ -1,0 +1,54 @@
+git init
+ git init
+  12 git status
+  13 git add testing.py
+  14 touch testing.py
+  15 clear
+  16 ls
+  17 clear
+  18 git status
+  19 git add testing.py
+  20 clear
+  21 git status
+  22 git commit -m "added testing files"
+  23 clear
+  24 git satus
+  25 git status
+  26 gitadd testing.py
+  27 clear
+  28 git status
+  29 rm testing.py
+  30 rm testing.py
+  31 git status
+  32 git add/rm <file>...
+  33 git add/rm <testing.py>...
+  34 git add/rm testing.py...
+  35 clear
+  36 git init
+  37 git status
+  38 git restore testing.py
+  39 clear
+  40 git status
+  41 git rm --cache testing.py
+  42 git status
+  43 git status
+  44 git restore testing.py
+  45 ls
+  46 git status
+  47 git restore testing.py
+  48 clear
+  49 git restore testing.py
+  50 ls
+  51 rm testing.py
+  52 git restore testing.py
+  53 clear
+  54 gitstatus
+  55 clear
+  56 git status
+  57 git restore --staged testing.py
+  58 ls
+  59 ls
+  60 git status
+  61 clear
+  62 git restore testing.py
+  63 git status
