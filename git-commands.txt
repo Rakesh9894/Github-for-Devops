@@ -52,3 +52,17 @@ git init
   61 clear
   62 git restore testing.py
   63 git status
+
+   2 git remote -v
+   3 git remote set-url origin https://ghp_T0m4m... 
+   4 get remote -v
+   5 git remote -v
+   6 git push origin master
+   7 git push origin main
+   8 histrory
+   9 history
+  10 clear
+  11 histroy
+
+  this some changes
+  
